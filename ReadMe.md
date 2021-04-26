@@ -1,4 +1,4 @@
-[![Fork me on Gitee](CookPopularControl/Resources/Images/CookCSharp.png)](https://gitee.com/cook-csharp/CookPopularControl)
+![Logo](CookPopularControl\Resources\Images\CookCSharp.png)
 
 # Welcome to CookPopularControl
 
@@ -75,7 +75,7 @@ CookPopularControl是支持.NetFramework4.6.1与.Net5.0的WPF控件库，其中�
     ![效果](TestDemo/Resources/DemoImages/slider.png)
 
 - Swiper
-    ![效果](TestDemo/Resources/DemoImages/swiper.png)
-
+    ![效果](\TestDemo\Resources\DemoImages\swiper.png)
+    
 - TabControl
     ![效果](TestDemo/Resources/DemoImages/tabcontrol.png)
