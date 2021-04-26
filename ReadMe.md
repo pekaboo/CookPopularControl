@@ -22,7 +22,7 @@ CookPopularControl是支持.NetFramework4.6.1与.Net5.0的WPF控件库，其中�
     </Application.Resources>
     ```
 - Button
-    ![效果](https://gitee.com/cook-csharp/CookPopularControl/blob/chance/TestDemo/Resources/DemoImages/buttons.png)
+    ![效果](TestDemo/Resources/DemoImages/buttons.png)
 - CheckBox
     ![效果](\TestDemo\Resources\DemoImages\checkboxes.png)
 - ComboBox
